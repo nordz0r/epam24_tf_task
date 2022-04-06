@@ -3,7 +3,6 @@
 + Написать terraform манифест, который с помощью data source сущностей получает из облака информацию о AWS VPC/Azure virtual network, subnets и security groups 
 + Вывести в оутпут имена AWS VPC/Azure virtual network, subnets и security groups
 
-## Скачать последнюю версию terraform
 ### Install on Debian/Ubuntu
 ```
 curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
